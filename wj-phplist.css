@@ -1,0 +1,29 @@
+#content tr td {
+	padding:0px;
+}
+
+#wj-mail-cp-content {
+width:87%; float:left;
+position:relative;
+border:dashed 1px;
+padding:5px;
+min-height:500px;
+}
+
+#wj-mail-cp-menu {
+width:10%;
+float:right; 
+position:relative; 
+ border:dashed 1px; 
+ padding:5px; 
+}
+
+.wj-left {
+position:relative;
+float:left;
+}
+
+.wj-right {
+position:relative;
+float:right;
+}
